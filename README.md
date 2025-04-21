@@ -36,44 +36,6 @@ Um portfólio digital futurista com efeito de partículas interativas, inspirado
 
    Aqui está o README em markdown para o seu projeto:
 
-```markdown
-# Portfólio Futurista - Diogo Henrique
-
-![Portfólio Diogo Henrique](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/eb5717c4-5e5b-40f7-aa99-83b10d6020ff.jfif-XZPYQFOTUQwV7gAIljrQjBPGO0y89k.jpeg)
-
-Um portfólio digital futurista com efeito de partículas interativas, inspirado no formato Linktree mas com design moderno e profissional.
-
-## 🚀 Características
-
-- **Design Futurista**: Interface moderna com gradientes e efeitos visuais
-- **Partículas Interativas**: Fundo animado que reage ao movimento do mouse
-- **Layout Responsivo**: Adaptado para todos os tamanhos de tela
-- **Animações Suaves**: Transições e efeitos de entrada para melhor experiência do usuário
-- **Botões de Cópia Rápida**: Copie informações de contato com um clique
-- **Cards de Links**: Apresentação elegante de links com descrições
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Next.js 14**: Framework React com App Router
-- **TypeScript**: Tipagem estática para código mais seguro
-- **Tailwind CSS**: Estilização rápida e responsiva
-- **Framer Motion**: Biblioteca de animações
-- **Lucide React**: Ícones modernos e personalizáveis
-- **Shadcn/UI**: Componentes de UI reutilizáveis
-
-## 📋 Pré-requisitos
-
-- Node.js 18.0.0 ou superior
-- npm ou yarn
-
-## 🔧 Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/dhdiogoh/portfolio-linktree.git
-   cd portfolio-linktree
-```
-
 2. Instale as dependências:
 
 ```shellscript
