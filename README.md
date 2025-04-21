@@ -1,6 +1,6 @@
 # Portfólio Futurista - Diogo Henrique
 
-![Portfólio Diogo Henrique](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/eb5717c4-5e5b-40f7-aa99-83b10d6020ff.jfif-XZPYQFOTUQwV7gAIljrQjBPGO0y89k.jpeg)
+![image](https://github.com/user-attachments/assets/e738519c-639d-482f-8608-9c0ebd9b5903)
 
 Um portfólio digital futurista com efeito de partículas interativas, inspirado no formato Linktree mas com design moderno e profissional.
 
