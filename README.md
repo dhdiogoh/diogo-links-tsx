@@ -1,30 +1,142 @@
-# Linktree
+# Portfólio Futurista - Diogo Henrique
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+![Portfólio Diogo Henrique](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/eb5717c4-5e5b-40f7-aa99-83b10d6020ff.jfif-XZPYQFOTUQwV7gAIljrQjBPGO0y89k.jpeg)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/diogo-henriques-projects-7d518ae8/v0-linktree)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/VR5VEK6nkiz)
+Um portfólio digital futurista com efeito de partículas interativas, inspirado no formato Linktree mas com design moderno e profissional.
 
-## Overview
+## 🚀 Características
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+- **Design Futurista**: Interface moderna com gradientes e efeitos visuais
+- **Partículas Interativas**: Fundo animado que reage ao movimento do mouse
+- **Layout Responsivo**: Adaptado para todos os tamanhos de tela
+- **Animações Suaves**: Transições e efeitos de entrada para melhor experiência do usuário
+- **Botões de Cópia Rápida**: Copie informações de contato com um clique
+- **Cards de Links**: Apresentação elegante de links com descrições
 
-## Deployment
+## 🛠️ Tecnologias Utilizadas
 
-Your project is live at:
+- **Next.js 14**: Framework React com App Router
+- **TypeScript**: Tipagem estática para código mais seguro
+- **Tailwind CSS**: Estilização rápida e responsiva
+- **Framer Motion**: Biblioteca de animações
+- **Lucide React**: Ícones modernos e personalizáveis
+- **Shadcn/UI**: Componentes de UI reutilizáveis
 
-**[https://vercel.com/diogo-henriques-projects-7d518ae8/v0-linktree](https://vercel.com/diogo-henriques-projects-7d518ae8/v0-linktree)**
+## 📋 Pré-requisitos
 
-## Build your app
+- Node.js 18.0.0 ou superior
+- npm ou yarn
 
-Continue building your app on:
+## 🔧 Instalação
 
-**[https://v0.dev/chat/projects/VR5VEK6nkiz](https://v0.dev/chat/projects/VR5VEK6nkiz)**
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/dhdiogoh/portfolio-linktree.git
+   cd portfolio-linktree
 
-## How It Works
+   Aqui está o README em markdown para o seu projeto:
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```markdown
+# Portfólio Futurista - Diogo Henrique
+
+![Portfólio Diogo Henrique](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/eb5717c4-5e5b-40f7-aa99-83b10d6020ff.jfif-XZPYQFOTUQwV7gAIljrQjBPGO0y89k.jpeg)
+
+Um portfólio digital futurista com efeito de partículas interativas, inspirado no formato Linktree mas com design moderno e profissional.
+
+## 🚀 Características
+
+- **Design Futurista**: Interface moderna com gradientes e efeitos visuais
+- **Partículas Interativas**: Fundo animado que reage ao movimento do mouse
+- **Layout Responsivo**: Adaptado para todos os tamanhos de tela
+- **Animações Suaves**: Transições e efeitos de entrada para melhor experiência do usuário
+- **Botões de Cópia Rápida**: Copie informações de contato com um clique
+- **Cards de Links**: Apresentação elegante de links com descrições
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Next.js 14**: Framework React com App Router
+- **TypeScript**: Tipagem estática para código mais seguro
+- **Tailwind CSS**: Estilização rápida e responsiva
+- **Framer Motion**: Biblioteca de animações
+- **Lucide React**: Ícones modernos e personalizáveis
+- **Shadcn/UI**: Componentes de UI reutilizáveis
+
+## 📋 Pré-requisitos
+
+- Node.js 18.0.0 ou superior
+- npm ou yarn
+
+## 🔧 Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/dhdiogoh/portfolio-linktree.git
+   cd portfolio-linktree
+```
+
+2. Instale as dependências:
+
+```shellscript
+npm install
+# ou
+yarn install
+```
+
+
+3. Execute o servidor de desenvolvimento:
+
+```shellscript
+npm run dev
+# ou
+yarn dev
+```
+
+
+4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
+
+
+## 📝 Personalização
+
+### Alterando Informações Pessoais
+
+Edite o arquivo `app/page.tsx` para atualizar:
+
+- Nome e título
+- Informações de contato
+- Links e descrições
+
+
+### Modificando o Design
+
+- **Cores**: Altere os gradientes e cores no arquivo `app/page.tsx`
+- **Partículas**: Ajuste o comportamento das partículas em `components/particle-background.tsx`
+- **Estilos Gerais**: Modifique o arquivo `app/globals.css` para ajustes globais
+
+
+## 📦 Estrutura do Projeto
+
+```plaintext
+portfolio-linktree/
+├── app/
+│   ├── page.tsx         # Página principal
+│   ├── layout.tsx       # Layout da aplicação
+│   └── globals.css      # Estilos globais
+├── components/
+│   ├── particle-background.tsx  # Componente de fundo com partículas
+│   └── ui/              # Componentes de UI reutilizáveis
+├── public/
+│   └── profile.jpg      # Imagem de perfil
+└── ...
+```
+
+## 🚀 Deploy
+
+Este projeto pode ser facilmente implantado na Vercel: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdhdiogoh%2Fportfolio-linktree&teamSlug=diogo-henriques-projects-7d518ae8
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+
+## 📞 Contato
+
+Diogo Henrique - [LinkedIn](https://www.linkedin.com/in/diogo-henrique-538317294) - [diiogoh04@gmail.com](mailto:diiogoh04@gmail.com)
