@@ -50,7 +50,7 @@ export default function Home() {
       title: "Biblioteca de IAs e Automações",
       description:
         "Tenha acesso aos meus fluxos de automação personalizados para otimizar seus processos e aumentar sua produtividade",
-      url: "#",
+      url: "https://v0-biblioteca-de-ia-s.vercel.app/",
       icon: <BookOpen className="h-5 w-5" />,
     },
     {
